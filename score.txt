@@ -1,0 +1,7 @@
+Player1 8400
+Player2 5150
+Player3 12150
+Player4 450
+Player5 7650
+Player6 23400
+Player7 0
