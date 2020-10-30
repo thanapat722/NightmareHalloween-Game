@@ -1,5 +1,5 @@
 # Nightmare Halloween Game
-My First Game Project at CE, KMITL.
+My First Game Project at CE, KMITL 2018.
 This project created with C++ with SFML Library.
 Inspired by Plant VS Zombies.
 
@@ -19,6 +19,7 @@ Run Nightmare Halloween.exe to play.
 | Move Right     | D           |
 | Attack         | Space       |
 | Sp. Attack     | Left-Shift  |
+
 Sp. Attack charge with normal attack.
 Don't allow any monster get into your house.
 Defeat the last Boss to Win!
