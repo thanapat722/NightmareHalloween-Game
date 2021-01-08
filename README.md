@@ -4,7 +4,7 @@ This project created with C++ with SFML Library.
 Inspired by Plant VS Zombies.
 
 ## How to Install
-Download or clone this repo using.
+Download zip or clone this repo using.
 ```bash
 git clone https://github.com/thanapat722/NightmareHalloween-Game.git
 ```
